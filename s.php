@@ -1,2 +1,2 @@
-$number = '01988981373';
+$number = '0199999999';
 $str = ltrim($number, '0');
